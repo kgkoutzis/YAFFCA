@@ -2,7 +2,7 @@
 
 YAFFCA is a Web browser-based application that allows you to backup your list of active Facebook friends and then compare the different backups in order to identify any missing or appeared friends. 
 
-You can use this tool to track any unfriendings, or the account reactivation of previously inactive friends, as well as any new friends you have added.
+You can use this tool to track any unfriendings, or the account reactivation of previously inactive friends, as well as any new friends you have added. It also works with Pages and people you are Following.
 
 YAFFCA consists of two parts: (1) a bookmarklet and (2) a webpage.
 

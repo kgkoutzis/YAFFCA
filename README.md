@@ -11,3 +11,7 @@ YAFFCA consists of two parts: (1) a bookmarklet and (2) a webpage.
 2) The YAFFCA webpage allows you to compare the different backups
 
 Additional instructions can be found here: https://kgk.gr/YAFFCA
+
+## What's new in version 1.1
+
+Facebook decided to change its design and move the list inside an iframe, so, yeah.
